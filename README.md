@@ -8,6 +8,14 @@ _**Βήμα 1ο**_
 
 **ΕΡΩΤΗΜΑ 1**
 
+b)Οι επεξεργαστές που είχαν χρησιμοποιηθεί: Niagara, Niagara2, Xeon & Alpha 21364
+
+**Συγκεκριμένα: 
+        90nm Niagara processor [24] running at 1.2GHz with a 1.2V power supply,
+        65nm Niagara2 processor [31] run-ning at 1.4GHz with a 1.1V power supply,
+        65nm Xeon processor [37] running at 3.4GHz with a 1.25V power sup-ply,
+        180nm Alpha 21364 processor [17] running at1.2GHz with a 1.5V power supply**
+
 **ΕΡΩΤΗΜΑ 2**
 
 **ΕΡΩΤΗΜΑ 3**
