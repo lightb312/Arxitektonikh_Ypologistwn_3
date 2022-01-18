@@ -39,6 +39,12 @@ b)Οι επεξεργαστές που είχαν χρησιμοποιηθεί: 
 
 ./mcpat -infile ProcessorDescriptionFiles/ARM_A9_2GHz.xml -print_level 5 > results_arm_A9_2.txt
 
+Για τον Xeon:
+Total Leakage = 36.8319 W  Runtime Dynamic = 72.9199 W
+
+Για τον Arm_A9_2GHz:
+Total Leakage = 0.108687 W Runtime Dynamic = 2.96053 W
+
 
 
 
